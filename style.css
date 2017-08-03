@@ -5,3 +5,9 @@ html, body{
 #logo img{
     padding-top: 20px;
 }
+#info p{
+    color: white;
+    text-align: center;
+    font-family: 'Just Another Hand', cursive;
+    font-size: 1.8em;
+}
