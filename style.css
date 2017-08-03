@@ -11,3 +11,9 @@ html, body{
     font-family: 'Just Another Hand', cursive;
     font-size: 1.8em;
 }
+#counter .countdown{
+    color: white;
+    text-align: center;
+    font-family: 'Just Another Hand', cursive;
+    font-size: 3em;
+}
