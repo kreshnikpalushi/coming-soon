@@ -62,3 +62,24 @@ transition: all .2s ease-in-out;
 #signup .btn-signup:hover{
     background-color: rgba(37,165,82,1);
 }
+@media(max-width:768px) {
+   #logo img{
+    width: 50%;
+} 
+    #counter .countdown{
+    color: white;
+    font-size: 1.4em;
+}
+    #social .fa{
+    margin: 10px 0 0;
+    font-size: 2em;    
+}
+    #signup .btn-signup{
+    margin-top: 20px; 
+}
+}
+@media(max-width:768px) and (orientation: landscape){
+    #signup .btn-signup{
+    margin-top: 0;
+        
+}
