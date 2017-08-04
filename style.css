@@ -48,3 +48,17 @@ transition: all .2s ease-in-out;
     color: #bc2a8d;
     bottom: 5px;
 }
+#signup{
+    text-align: center;
+    margin-top: 20px;
+}
+#signup .form-inline{
+    display: block;
+}
+#signup .btn-signup{
+    color: white;
+    background-color: rgba(161,186,226,0.7);
+}
+#signup .btn-signup:hover{
+    background-color: rgba(37,165,82,1);
+}
