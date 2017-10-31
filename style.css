@@ -1,6 +1,7 @@
 html, body{
     background: url(image/bg.jpg) center center no-repeat;
     height: 100%;
+    width:100vw;
 }
 #logo img{
     padding-top: 20px;
